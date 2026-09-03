@@ -20,4 +20,12 @@
 
 ---
 
+## 📸 Application Previews
+
+| Cinematic Hero & Weather Telemetry | AI Itinerary Canvas & Explorer |
+| :---: | :---: |
+| ![Hero & Weather](./hero-weather.png) | ![AI Canvas](./itinerary-canvas.png) |
+
+---
+
 ## 🏗️ Architecture & Component Hierarchy
